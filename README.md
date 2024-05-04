@@ -2,7 +2,7 @@
 knowledge of sensor fusion and localization
 
 # sensor fusion
-  [Algorthm review](https://www.thinkautonomous.ai/blog/9-types-of-sensor-fusion-algorithms/)
+  The 3 types of Sensor Fusion classification(I - Sensor Fusion by Abstraction Level, II - Sensor Fusion by Centralization Level, III - Sensor Fusion by Competition Level), and the 9 types of Sensor Fusion algorithms.[Algorthm review](https://www.thinkautonomous.ai/blog/9-types-of-sensor-fusion-algorithms/)
   
   [3D occupancy network]()
 
