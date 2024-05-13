@@ -14,3 +14,5 @@ knowledge of sensor fusion and localization
   [EKF](https://www.youtube.com/watch?v=LkHBR7efKQw)
   
   [OpenLane Topology]()
+
+  [SLAM courses](https://www.youtube.com/watch?v=XeWG5D71gC0&list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_&index=6)
